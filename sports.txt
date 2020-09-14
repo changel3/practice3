@@ -1,6 +1,7 @@
-ports:
-1)Basketball
-2)Volleyball
-3)Badminton
-4)Football
-5)Soccer
+Sports:
+1)Basketball (1)
+2)Volleyball (3)
+3)Badminton (4)
+4)Football (2)
+5)Soccer (5)
+
