@@ -1,0 +1,6 @@
+st:
+*apples
+*orange
+*banana
+*pears
+*mangox
