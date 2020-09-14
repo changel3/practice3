@@ -1,6 +1,6 @@
-st:
+Fruit List:
 *apples
 *orange
 *banana
 *pears
-*mangox
+*mango
